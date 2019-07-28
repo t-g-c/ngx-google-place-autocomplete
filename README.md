@@ -1,1 +1,3 @@
-# ngx-google-place-autocomplete
+# NgxGooglePlaceAutocomplete
+
+* A simple and lightweight google place autocomplete `directive`
