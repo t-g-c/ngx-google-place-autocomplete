@@ -1,6 +1,27 @@
 {
   "name": "ngx-google-place-autocomplete",
-  "version": "0.0.2",
+  "version": "0.0.3",
+  "license": "MIT",
+  "keywords": [
+    "autocomplete",
+    "typescript",
+    "google place",
+    "google",
+    "angular",
+    "angular 2",
+    "angular io",
+    "angular google place"
+  ],
+  "contributors": [
+    {
+      "name": "Jared Cheney",
+      "url": "https://github.com/Tyypos"
+    },
+    {
+      "name": "Sean De Lacerda",
+      "url": "https://github.com/seandelacerda"
+    }
+  ],
   "peerDependencies": {
     "@angular/common": "^7.2.0",
     "@angular/core": "^7.2.0"
